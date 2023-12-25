@@ -1,0 +1,2 @@
+hello world 
+i am write in file i am added by python code in txt filei am added by python code in txt file
